@@ -1,5 +1,9 @@
 # Git-test-codecamp-15
+<<<<<<< HEAD
 # Add line for test1
+=======
+## title h2  
+>>>>>>> 8b70c503539119cebbd3d4b7372891de8d9a6db2
 ### title h3  
 #### title h4  
 ##### title h5  
